@@ -5,12 +5,15 @@ class Lab2 {
 
         Scanner s= new Scanner(System.in);
         int i=0;
-        int n=1;
+        int ch=1;
+        int n=0;
         String temp;
         String[] names= new String[1024];
         
         do{
-        System.out.println("What do you want to do? \n 1. Enter a Name. \n 2. Remove a Name. \n 3. Search for a Name \n 4. Show all Names \n 5.Exit(Enter 0)");
+            System.out.println("Press 0 to exit");
+            ch= Integer.parseInt(s.nextLine());
+        System.out.println("What do you want to do? \n 1. Enter a Name. \n 2. Remove a Name. \n 3. Search for a Name \n 4. Show all Names \n:");
         n= Integer.parseInt(s.nextLine());
 
         switch(n){
@@ -80,7 +83,7 @@ class Lab2 {
 
         }
 
-        }while(n!=0);
+        }while(ch!=0);
 
 
 
