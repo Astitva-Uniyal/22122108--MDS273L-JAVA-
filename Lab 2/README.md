@@ -23,4 +23,85 @@ Provide necessary validations that the user enters only valid names that are not
 Removing a name should not create empty space inside the array!
 Format your results properly!!
 
-Flowchart:
+Output:
+
+What do you want to do? 
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+
+1
+Enter name
+Astitva
+Press 0 to exit
+1
+What do you want to do?
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+
+1
+Enter name
+Pritesh
+Press 0 to exit
+1
+What do you want to do?
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+
+1
+Enter name
+Divy
+Press 0 to exit
+1
+What do you want to do?
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+
+1
+Enter name
+Aashi 
+Press 0 to exit
+1
+What do you want to do?
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+
+1
+Enter name
+Chirag
+Press 0 to exit
+1
+What do you want to do?
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+
+2
+Enter name to remove
+Chirag
+Press 0 to exit
+1
+What do you want to do?
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+What do you want to do?
+ 1. Enter a Name.
+ 2. Remove a Name.
+ 3. Search for a Name
+ 4. Show all Names
+
+4
+Astitva  Pritesh  Divy  Aashi
+Press 0 to exit
