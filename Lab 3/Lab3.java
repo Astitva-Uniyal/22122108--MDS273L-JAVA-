@@ -33,10 +33,11 @@ public class Lab3 {
                 if (arr[i] == arr[j]) {
                     ++c;
                 }
-                if (c > max) {
+                if (c > max && c>1) {
                     max = c;
                     m = arr[i];
                 }
+
             }
         }
         return m;
