@@ -16,9 +16,9 @@ public class Lab3 {
         int m = 0;
         int s = arr.length;
         if (s % 2 == 0) {
-            m = arr[(s / 2)];
+            m = arr[(s / 2)-1];
         } else {
-            m = arr[(s + 1) / 2];
+            m = arr[((s + 1) / 2)-1];
         }
         return m;
     }
