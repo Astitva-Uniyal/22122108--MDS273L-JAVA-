@@ -18,7 +18,7 @@ public class Lab3 {
         if (s % 2 == 0) {
             m = arr[(s / 2)-1];
         } else {
-            m = arr[((s + 1) / 2)-1];
+            m = arr[((s + 1) / 2)];
         }
         return m;
     }
