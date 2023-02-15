@@ -105,3 +105,4 @@ What do you want to do?
 4
 Astitva  Pritesh  Divy  Aashi
 Press 0 to exit
+0
